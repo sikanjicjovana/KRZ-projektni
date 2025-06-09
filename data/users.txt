@@ -1,0 +1,4 @@
+jovana,MD5$Qo2NYyjPSMY$aupvhVal3vnRxI6GUFhLeg,C:\Users\Lenovo\Desktop\KRZproject\KRZproject\data\certs\cer1.cer
+marko,SHA-512$GRHA466UzzlPmv+9FgYr28y9wDAsrWkY4d9Dr8z7Lj8$RnpCB5WiMrPLX1xUrmgy/Sk8/c+kxxLangDTxbMINJs92okoxLj/5UedT1ODbuOGFzjfIVt6u4iPVzWSM/lOXQ,C:\Users\Lenovo\Desktop\KRZproject\KRZproject\data\certs\cer10.cer
+u2,SHA-512$AaD0Au5z7551y2idZl3nslEsmwaTaNVSqWJl6B3yTKY$hXQ5GVdSvCU1NLXs3dbVAGJ6h6fOMk6LibUv/Z/3ZWNZIDuTqllIrbLwyCO7+XCJuQ6oRJ0YqVVuw1YN/iEWRw,C:\Users\Lenovo\Desktop\KRZproject\KRZproject\data\certs\cer2.cer
+u3,MD5$Yvbg2cNvp6g$J8ApScDQE48aBzjau5Bv3Q,C:\Users\Lenovo\Desktop\KRZproject\KRZproject\data\certs\cer3.cer

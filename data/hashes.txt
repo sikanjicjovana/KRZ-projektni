@@ -1,0 +1,7 @@
+
+C:\Users\Lenovo\Desktop\KRZproject\KRZproject\data\efs\u2\folder\data.txt,ep2Q1FQkaTaJHaz3SKb+ZA==
+C:\Users\Lenovo\Desktop\KRZproject\KRZproject\data\efs\u2\folder\KRZ projektni.pdf,6EQYozXbK3gZYYBWWr+t7w==
+C:\Users\Lenovo\Desktop\KRZproject\KRZproject\data\efs\u2\folder\google.bmp,KWxinqg2QdEpahYiYDCKGQ==
+C:\Users\Lenovo\Desktop\KRZproject\KRZproject\data\efs\u3\novi\test primjer.txt,GP/t251iJbfk4S3/quVFhA==
+C:\Users\Lenovo\Desktop\KRZproject\KRZproject\data\efs\u2\u2_test primjer.txt,GP/t251iJbfk4S3/quVFhA==
+C:\Users\Lenovo\Desktop\KRZproject\KRZproject\data\efs\u2\drugi\opos neki pokusaji.txt,sFhpxhV2fj9nWkt8BqpXpQ==
